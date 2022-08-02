@@ -8,7 +8,7 @@
 
 - ✍️ Un autodidacta innato, apasionado por aprender de todo un poco. Desde programcion hasta moda pasando por filosofia y fotografía.
 
-- Estudie física pura durante 2 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Frontend con gusto por el desarrollo movil.
+- 🥼 Estudie física pura durante 2 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Frontend con gusto por el desarrollo movil.
 
 <br>
 
