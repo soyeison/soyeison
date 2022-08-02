@@ -1,8 +1,14 @@
 ### 👋 Hola, mi nombre es Yeison tengo 22 años y soy de Colombia. Soy Full Stack Developer certificado.
 
+<br>
+
+### Contactame
+
 <a href="mailto:yeisonvillegas07@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/yeisonvillegas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://wa.link/pfzds1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+
+<br>
 
 - 🎨 Estoy orientandome al desarrollo web Frontend con conocimientos en: React JS, React Native, Redux, CSS, HTML.
 
