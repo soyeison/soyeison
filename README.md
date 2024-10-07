@@ -1,14 +1,14 @@
-### 👋 Hola, mi nombre es Yeison tengo 22 años y soy de Colombia. Soy Full Stack Developer certificado.
+### 👋 Hola, mi nombre es Yeison tengo 24 años y soy de Colombia. Soy Backend developer.
 
 <br>
 
-- 🎨 Estoy orientandome al desarrollo web Frontend con conocimientos en: React JS, React Native, Redux, CSS, HTML.
+- 🎨 Estoy orientandome al desarrollo web Backend con conocimientos en: Typescript, Python, AWS.
 
-- 💻 Actualmente estoy reforzando mis conocimientos en React Native y Typescript.
+- 💻 Actualmente estoy reforzando mis conocimientos en Python con FastAPI.
 
 - ✍️ Un autodidacta innato, apasionado por aprender de todo un poco. Desde programcion hasta moda pasando por filosofia y fotografía.
 
-- 🥼 Estudie física pura durante 2 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Backend.
+- 🥼 Estudie física pura durante casi 4 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Backend.
 
 <br>
 
