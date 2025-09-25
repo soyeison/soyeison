@@ -2,13 +2,11 @@
 
 <br>
 
-- 🎨 Estoy orientandome al desarrollo web Backend con conocimientos en: Typescript, Python, AWS.
+- 🎨 Soy desarrollador web Backend con conocimientos en: Typescript, Python, AWS, Azure, Kubernetes y demas herramientas.
 
-- 💻 Actualmente estoy reforzando mis conocimientos en Python con FastAPI.
+- ✍️ Un autodidacta innato, apasionado por aprender de todo un poco. Desde programcion hasta moda pasando por filosofia.
 
-- ✍️ Un autodidacta innato, apasionado por aprender de todo un poco. Desde programcion hasta moda pasando por filosofia y fotografía.
-
-- 🥼 Estudie física pura durante casi 4 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Backend.
+- 🥼 Estudie física pura durante 4 años donde conocí la programación y comence a relacionarme con esta por medio de Python, el primer lenguaje que aprendí. Posteriormente descubrí el desarrollo web y me termine decantando por el Backend.
 
 <br>
 
